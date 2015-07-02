@@ -1,0 +1,4 @@
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\DiffProcessor\bin\Debug\DiffProcessor.dll
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\DiffProcessor\bin\Debug\DiffProcessor.pdb
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\DiffProcessor\obj\Debug\DiffProcessor.dll
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\DiffProcessor\obj\Debug\DiffProcessor.pdb

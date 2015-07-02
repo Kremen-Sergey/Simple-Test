@@ -1,0 +1,11 @@
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\bin\Debug\SimpleTest.exe.config
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\bin\Debug\SimpleTest.exe
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\bin\Debug\SimpleTest.pdb
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\bin\Debug\DiffProcessor.dll
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\bin\Debug\DiffProcessor.pdb
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\obj\Debug\SimpleTest.exe
+C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\SimpleTest\obj\Debug\SimpleTest.pdb
+D:\GitHub\SimpleTest\SimpleTest\bin\Debug\SimpleTest.exe.config
+D:\GitHub\SimpleTest\SimpleTest\obj\Debug\SimpleTest.exe
+D:\GitHub\SimpleTest\SimpleTest\obj\Debug\SimpleTest.pdb
