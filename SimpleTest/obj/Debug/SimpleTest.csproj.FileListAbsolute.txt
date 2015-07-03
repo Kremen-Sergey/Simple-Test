@@ -9,3 +9,11 @@ C:\Users\Home\Desktop\SimpleTest-2668d598be20dd2d7af1e8bee5215c1106438f71\C#\Sim
 D:\GitHub\SimpleTest\SimpleTest\bin\Debug\SimpleTest.exe.config
 D:\GitHub\SimpleTest\SimpleTest\obj\Debug\SimpleTest.exe
 D:\GitHub\SimpleTest\SimpleTest\obj\Debug\SimpleTest.pdb
+D:\GitHub\Simple-Test\SimpleTest\bin\Debug\SimpleTest.exe.config
+D:\GitHub\Simple-Test\SimpleTest\obj\Debug\SimpleTest.exe
+D:\GitHub\Simple-Test\SimpleTest\obj\Debug\SimpleTest.pdb
+D:\GitHub\Simple-Test\SimpleTest\bin\Debug\SimpleTest.exe
+D:\GitHub\Simple-Test\SimpleTest\bin\Debug\SimpleTest.pdb
+D:\GitHub\Simple-Test\SimpleTest\bin\Debug\DiffProcessor.dll
+D:\GitHub\Simple-Test\SimpleTest\bin\Debug\DiffProcessor.pdb
+D:\GitHub\Simple-Test\SimpleTest\obj\Debug\SimpleTest.csprojResolveAssemblyReference.cache
