@@ -12,11 +12,11 @@ namespace SimpleTest
         //static SortedLimitedList<Double> sortedList1_ = new SortedLimitedList<Double>(1);
         //static SortedLimitedList<Double> sortedList2_ = new SortedLimitedList<Double>(1);
 
-        //static Processor diffProcessor = new Processor(8);
-        //static SortedLimitedList<Double> sortedList1 = new SortedLimitedList<Double>(10);
-        //static SortedLimitedList<Double> sortedList2 = new SortedLimitedList<Double>(10);
-        //static SortedLimitedList<Double> sortedList1_ = new SortedLimitedList<Double>(10);
-        //static SortedLimitedList<Double> sortedList2_ = new SortedLimitedList<Double>(10);
+        //static Processor diffProcessor = new Processor(3);
+        //static SortedLimitedList<Double> sortedList1 = new SortedLimitedList<Double>(3);
+        //static SortedLimitedList<Double> sortedList2 = new SortedLimitedList<Double>(3);
+        //static SortedLimitedList<Double> sortedList1_ = new SortedLimitedList<Double>(3);
+        //static SortedLimitedList<Double> sortedList2_ = new SortedLimitedList<Double>(3);
 
         static Processor diffProcessor = new Processor(10);
         static SortedLimitedList<Double> sortedList1 = new SortedLimitedList<Double>(10);
@@ -67,7 +67,6 @@ namespace SimpleTest
             DoTest(operations);
         }
 
-
         static void Main(String[] args)
         {
             Double[] needToBeEqual_0 = { 0, 1, 2, 3, 4, 6, 7 };
@@ -106,22 +105,38 @@ namespace SimpleTest
             Double[] expected_8 = { 0 };
             Test(needToBeEqual_8, expected_8, 2);
 
-            //Double[] needToBeEqual_9 = {-1, 0, 1, 3, 3, 4, 6, 7, 8 };
-            //Double[] expected_9 = { 0, 1, 2, 4, 5, 6, 7 };
+            Double[] needToBeEqual_9 = { 1, 2, 3 };
+            Double[] expected_9 = { };
+            Test(needToBeEqual_9, expected_9, 3);
 
-            //Double[] needToBeEqual_9 = {  1};
-            //Double[] expected_9 = { 1, 1, 1, 1 };
+            Double[] needToBeEqual_10 = { };
+            Double[] expected_10 = { 0, 1, 2 };
+            Test(needToBeEqual_10, expected_10, 3);
 
+            Double[] needToBeEqual_11 = { };
+            Double[] expected_11 = { };
+            Test(needToBeEqual_11, expected_11, 0);
 
-            //SortedLimitedList<Double> list9=new SortedLimitedList<double>(10);
-            //SortedLimitedList<Double> expectedList9 = new SortedLimitedList<double>(10);
-            //list9.FromArray(needToBeEqual_9);
-            //expectedList9.FromArray(expected_9);
-            //Console.WriteLine(diffProcessor.Contains(list9, 3));
-            //Console.WriteLine(diffProcessor.Contains(list9, 33));
-            //diffProcessor.DeleteElementsNotExistingInEtalon(list9, expectedList9);
-            //Console.WriteLine(list9.ToString());
-            //Console.WriteLine(expectedList9.ToString());
+            ////limit3
+            //Double[] needToBeEqual_12 = { 1, 1, 2 };
+            //Double[] expected_12 = { 0, 1, 2 };
+            //Test(needToBeEqual_12, expected_12, 2);
+
+            ////limit1
+            //Double[] needToBeEqual_13 = { };
+            //Double[] expected_13 = { 0 };
+            //Test(needToBeEqual_13, expected_13, 1);
+
+            ////limit1
+            //Double[] needToBeEqual_14 = { 0};
+            //Double[] expected_14 = {  };
+            //Test(needToBeEqual_14, expected_14, 1);
+
+            ////limit1
+            //Double[] needToBeEqual_15 = { };
+            //Double[] expected_15 = { };
+            //Test(needToBeEqual_15, expected_15, 0);
+
         }
     }
 }

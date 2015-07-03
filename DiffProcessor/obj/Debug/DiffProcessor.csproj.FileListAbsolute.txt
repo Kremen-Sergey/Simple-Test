@@ -6,3 +6,4 @@ D:\GitHub\Simple-Test\DiffProcessor\bin\Debug\DiffProcessor.dll
 D:\GitHub\Simple-Test\DiffProcessor\bin\Debug\DiffProcessor.pdb
 D:\GitHub\Simple-Test\DiffProcessor\obj\Debug\DiffProcessor.dll
 D:\GitHub\Simple-Test\DiffProcessor\obj\Debug\DiffProcessor.pdb
+D:\GitHub\Simple-Test\DiffProcessor\obj\Debug\DiffProcessor.csprojResolveAssemblyReference.cache
